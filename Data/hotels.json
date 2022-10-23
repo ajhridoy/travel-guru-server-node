@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Light bright airy stylish apt & safe peaceful stay",
+        "id": 1,
+        "img": "https://images.unsplash.com/photo-1607712617949-8c993d290809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bHV4dXJ5JTIwaG90ZWwlMjByb29tfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "Acom": "4 guests   2 bedrooms   2 beds   2 baths",
+        "rating": 4.5,
+        "totalRating": 20,
+        "price": 34
+    },
+    {
+        "name": "Apartment in Lost Panorama",
+        "id": 2,
+        "img": "https://media.istockphoto.com/photos/luxury-hotel-room-picture-id184609057?b=1&k=20&m=184609057&s=170667a&w=0&h=SVfDamnXL8EZlTcYyBRn0TU0wB1wMaf7B3Js33vRL_A=",
+        "Acom": "4 guests   2 bedrooms   2 beds   2 baths",
+        "rating": 4.8,
+        "totalRating": 10,
+        "price": 54
+    },
+    {
+        "name": "AR Lounge & Pool (r&r + b&b)",
+        "id": 3,
+        "img": "https://media.istockphoto.com/photos/double-bedroom-with-sea-view-picture-id1299710067?b=1&k=20&m=1299710067&s=170667a&w=0&h=hLOPJ6LWpsD0y7rqqLZ4lUZebHpymoyNXWZT6qntTY8=",
+        "Acom": "4 guests   2 bedrooms   2 beds   2 baths",
+        "rating": 4.5,
+        "totalRating": 30,
+        "price": 80
+    },
+    {
+        "name": "Hotel Quincia",
+        "id": 4,
+        "img": "http://thetravelista.net/wp-content/uploads/2017/04/four-seasons-jimbaran-bay-bali.jpg",
+        "Acom": "4 guests   2 bedrooms   2 beds   2 baths",
+        "rating": 4.9,
+        "totalRating": 13,
+        "price": 120
+    }
+]

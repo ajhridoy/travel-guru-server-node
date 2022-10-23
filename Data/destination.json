@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "COX'SBAZAR",
+        "img":  "https://media.istockphoto.com/photos/fishing-boats-on-beach-after-sunset-coxs-bazar-bangladesh-picture-id1387035398?b=1&k=20&m=1387035398&s=170667a&w=0&h=EnKVxPWuq9cn8q4R986WK44bAdMhfiw8wHrAswehNrE=",
+        "desc": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island."
+    },
+    {
+        "id": 2,
+        "name": "SREEMANGALS",
+        "img":  "https://images.unsplash.com/photo-1571521794045-ce3775801e37?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+        "desc": "Srimangal/Sreemangal is a city in Sylhet Division in Bangladesh. Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming. It soothes one’s eyes. Birds are twittering always here. The first tea garden in Bangladesh which names “Malni chho ra tea garden” is here."
+    },
+    {
+        "id": 3,
+        "name": "SUNDARBANS",
+        "img":  "https://images.unsplash.com/photo-1607441078533-77ba814b1e5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VuZGFyYmFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "desc": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python."
+    }
+]
